@@ -1,5 +1,5 @@
 # Context_Based_Image_Retrieval
-This project is a part of our ML course at IIIT Delhi
+This project is part of our Machine Learning (ML) course at IIIT Delhi
 
 Project Report (README) Link: 
 -----------------------------
